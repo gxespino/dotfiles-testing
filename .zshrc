@@ -2,7 +2,7 @@
 ZSH_THEME="oxide"
 
 # Case-sensitive completion.
-CASE_SENSITIVE="true"
+# CASE_SENSITIVE="true"
 
 # Disable bi-weekly auto-update checks.
 DISABLE_AUTO_UPDATE="true"
