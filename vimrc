@@ -55,6 +55,7 @@ Plugin 'honza/vim-snippets'
 Plugin 'janko-m/vim-test'
 Plugin 'elixir-lang/vim-elixir'
 Plugin 'Quramy/vim-js-pretty-template'
+Plugin 'vimoutliner/vimoutliner'
 
 call vundle#end()
 

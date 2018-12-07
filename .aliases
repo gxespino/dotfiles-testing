@@ -48,7 +48,6 @@ alias tmp='cd ~/Temporary; la'
 
 # shortcuts
 alias c='clear'
-alias cat='ccat'
 alias ch='echo > ~/.bash_history && echo > ~/.zsh_history'
 alias cz='echo > ~/.z'
 alias e='exit'
@@ -89,6 +88,9 @@ alias brc="cd . && vim .bashrc"
 alias vrc="cd . && vim .vimrc"
 alias trc="cd . && vim .tmux.conf"
 alias zrc="cd . && vim .zshrc"
+
+# easy $PATH display
+alias path="echo '$PATH' | tr ':' '\n'"
 
 #########################
 ## Rails
